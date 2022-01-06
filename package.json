@@ -2,7 +2,9 @@
   "name": "react-modal",
   "version": "1.0.0",
   "description": "modal element for react",
-  "main": "src/Modal.tsx",
+  "main": "./dist/Modal.js",
+  "type": "module",
+  "types": "./dist",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
