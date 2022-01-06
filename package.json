@@ -1,6 +1,6 @@
 {
   "name": "@appeweb/react-modal",
-  "version": "1.0.4",
+  "version": "1.0.2",
   "description": "modal element for react",
   "main": "./dist/Modal.js",
   "type": "module",
