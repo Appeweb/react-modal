@@ -40,7 +40,7 @@ const OVERLAY_STYLES: React.CSSProperties = {
 
 type ModalProps = {
   open: boolean
-  onClose: () => void | null
+  onClose?: () => void
   style?: {
     background?: React.CSSProperties
     container?: React.CSSProperties
