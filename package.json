@@ -1,10 +1,14 @@
 {
-  "name": "react-modal",
+  "name": "@appeweb/react-modal",
   "version": "1.0.1",
   "description": "modal element for react",
   "main": "./dist/Modal.js",
   "type": "module",
   "types": "./dist",
+  "bugs": {
+    "email": "m.durand@appeweb.fr",
+    "url": "https://github.com/Appeweb/react-modal/issues"
+  },
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
